@@ -1,9 +1,6 @@
 # Shell scripts
-backup.sh
-config.sh
-mimoConfig.sh
+*.sh
 
 # tar files
-shell.tgz*
-ssh.tgz*
-zsh.tgz*
+*.tgz*
+!lvsh.tgz*
