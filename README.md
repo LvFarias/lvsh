@@ -1,5 +1,13 @@
 # Installation
 
+## Install deps
+
+1. Download lvsh:
+
+    ```shell
+    sudo apt install ccrypt zip
+    ```
+
 ## Download and Config
 
 1. Download lvsh:
