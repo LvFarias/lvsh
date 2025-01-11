@@ -19,10 +19,9 @@
     tar xvfz lvsh-main/lvsh.tgz -C ~ --strip-components=2
     ```
 
-2. Extract and run Config:
+2. Extract shell scripts and run Config:
 
     ```shell
-    ccrypt -d -f ~/lvsh/shell.tgz.cpt
     tar xvfz ~/lvsh/shell.tgz -C ~ --strip-components=2
     ~/lvsh/config.sh
     ```
